@@ -12,7 +12,7 @@ The design and layout are inspired by a UI template from **[ThemeWagon](https://
 ## 📁 How to Use
 
 1. Download or clone the project.
-2. Open the `index.html` file in your browser.
+2. Open the `landing_page.html` file in your browser.
 
 ## 🙌 Credits
 
