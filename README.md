@@ -1,6 +1,6 @@
 # My Web UI Project
 
-This is a simple and modern web project built using **HTML**, **Tailwind CSS**, and **JavaScript**.
+This is a simple and modern web project built using **HTML**, **Tailwind CSS**.
 
 The design and layout are inspired by a UI template from **[ThemeWagon](https://themewagon.com/)**.
 
