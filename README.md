@@ -1,0 +1,24 @@
+# My Web UI Project
+
+This is a simple and modern web project built using **HTML**, **Tailwind CSS**, and **JavaScript**.
+
+The design and layout are inspired by a UI template from **[ThemeWagon](https://themewagon.com/)**.
+
+## 🔧 Technologies Used
+
+- HTML
+- Tailwind CSS
+- JavaScript
+
+## 📁 How to Use
+
+1. Download or clone the project.
+2. Open the `index.html` file in your browser.
+
+## 🙌 Credits
+
+- UI Inspiration: [ThemeWagon](https://themewagon.github.io/Next.js-Tailwind-CSS-Portfolio-Template/)
+
+## ✍️ Author
+
+Made by **Anurag**, Junior Full Stack Developer
