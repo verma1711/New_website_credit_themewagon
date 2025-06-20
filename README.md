@@ -8,7 +8,6 @@ The design and layout are inspired by a UI template from **[ThemeWagon](https://
 
 - HTML
 - Tailwind CSS
-- JavaScript
 
 ## 📁 How to Use
 
